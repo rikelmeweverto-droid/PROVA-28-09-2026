@@ -120,20 +120,6 @@ Git
 
 GitHub
 
-
-COMO EXECUTAR O PROJETO
-
-Primeiro, faça o download ou clone o repositório.
-
-Depois, abra a pasta do projeto.
-
-Entre na pasta html.
-
-Abra a página inicial utilizando um navegador.
-
-Depois disso, utilize o menu disponível nas páginas para navegar pelo Portal de Futebol.
-
-
 REPOSITÓRIO
 
 PROVA-28-09-2026
